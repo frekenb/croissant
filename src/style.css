@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+footer a {
+  color: rgb(51, 96, 81);
+  margin: 0 20px;
+}
+
+img {
+  width: 100%;
+}
